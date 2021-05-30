@@ -1,0 +1,13 @@
+{
+  "web": {
+    "baseUrl": "https://mail.ru/",
+    "login": "pazoviy",
+    "password": "dalfin1972$"
+  },
+  "db": {
+    "host": "localhost",
+    "name": "addressbook",
+    "user": "root",
+    "password": ""
+  }
+}
